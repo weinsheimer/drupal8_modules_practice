@@ -1,0 +1,5 @@
+name: 'hello_world1'
+package: 'Custom'
+description: 'An example module showing how to define a page to be displayed at a given URL.'
+type: module
+core: 8.x
